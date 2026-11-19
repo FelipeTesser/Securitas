@@ -18,6 +18,17 @@
 
 ​2. Controle de Acesso (Middlewares): Proteção das rotas do painel administrativo (/dashboard) e operações de veículos por meio dos middlewares auth e verified. 
 
+## 🖼️ Prints do Projeto
+
+### 1. Site Funcionando em `localhost` (Página Inicial)
+![Tela Inicial Securitas](prints/01-home-localhost.png)
+
+### 2. Painel de Controle e Listagem CRUD (Dashboard)
+![Dashboard Securitas](prints/02-dashboard-localhost.png)
+
+### 3. Front-End - Cadastro de Veículo (Operação Create)
+![Cadastro de Veículo](prints/03-frontend-create.png)
+
 ​3. Rota Fallback: Tratamento customizado para URLs inexistentes (Route::fallback), redirecionando o usuário de volta ao sistema de forma amigável.
 
 ​4. Banco de Dados & Migrations: Estruturação relacional (users e veiculos) utilizando Migrations do Laravel.
@@ -25,3 +36,4 @@
 ​5. Seeders (10 Registros): População automatizada do banco de dados (VeiculoSeeder) com 10 registros de motocicletas e status de segurança variados (Protegido, Alerta, Desbloqueado).
 
 ​6. Interface Estilizada: Front-end responsivo em modo escuro (Dark Mode) construído com Tailwind CSS, fiel à identidade visual do aplicativo Securitas.
+
