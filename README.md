@@ -21,13 +21,15 @@
 ## 🖼️ Prints do Projeto
 
 ### 1. Site Funcionando em `localhost` (Página Inicial)
-![Tela Inicial Securitas](01-home-localhost.jpg.jpeg)
+![Tela Inicial Securitas](<img width="1376" height="768" alt="01-home-localhost jpg" src="https://github.com/user-attachments/assets/61c4287a-a724-43b3-9b04-045143d118bc" />
+)
 
 ### 2. Painel de Controle e Listagem CRUD (Dashboard)
 ![Dashboard Securitas](02-dashboard-localhost.jpg.jpeg)
 
 ### 3. Front-End - Cadastro de Veículo (Operação Create)
 ![Cadastro de Veículo](03-frontend-create.jpg.jpeg)
+
 
 ​3. Rota Fallback: Tratamento customizado para URLs inexistentes (Route::fallback), redirecionando o usuário de volta ao sistema de forma amigável.
 
