@@ -21,13 +21,13 @@
 ## 🖼️ Prints do Projeto
 
 ### 1. Site Funcionando em `localhost` (Página Inicial)
-![Tela Inicial Securitas](prints/01-home-localhost.png)
+![Tela Inicial Securitas](01-home-localhost.jpg)
 
 ### 2. Painel de Controle e Listagem CRUD (Dashboard)
-![Dashboard Securitas](prints/02-dashboard-localhost.png)
+![Dashboard Securitas](02-dashboard-localhost.jpg)
 
 ### 3. Front-End - Cadastro de Veículo (Operação Create)
-![Cadastro de Veículo](prints/03-frontend-create.png)
+![Cadastro de Veículo](03-frontend-create.jpg)
 
 ​3. Rota Fallback: Tratamento customizado para URLs inexistentes (Route::fallback), redirecionando o usuário de volta ao sistema de forma amigável.
 
