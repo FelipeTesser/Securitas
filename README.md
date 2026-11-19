@@ -20,9 +20,17 @@
 
 ## 🖼️ Prints do Projeto
 
-<img width="1376" height="768" alt="03-frontend-create jpg" src="https://github.com/user-attachments/assets/cc0a2905-ad66-4ea8-a224-1380f6d836da" />
-<img width="1376" height="768" alt="02-dashboard-localhost jpg" src="https://github.com/user-attachments/assets/b86f47f2-5c60-4104-af96-2885f3dbd175" />
+### 1. Site Funcionando em `localhost` (Página Inicial)
+
 <img width="1376" height="768" alt="01-home-localhost jpg" src="https://github.com/user-attachments/assets/9f77626a-a81d-4a10-824f-77cb280f3b70" />
+
+### 2. Painel de Controle e Listagem CRUD (Dashboard)
+
+<img width="1376" height="768" alt="02-dashboard-localhost jpg" src="https://github.com/user-attachments/assets/b86f47f2-5c60-4104-af96-2885f3dbd175" />
+
+### 3. Front-End - Cadastro de Veículo (Operação Create)
+
+<img width="1376" height="768" alt="03-frontend-create jpg" src="https://github.com/user-attachments/assets/cc0a2905-ad66-4ea8-a224-1380f6d836da" />
 
 
 ​3. Rota Fallback: Tratamento customizado para URLs inexistentes (Route::fallback), redirecionando o usuário de volta ao sistema de forma amigável.
